@@ -1,4 +1,4 @@
-# 🛒 Projeto Sprint 4 - Urban.Grocers (Testes de API)
+# 🛒 Testes de API REST para Supermercado Online (Urban Grocers)
 
 ## 📌 Descrição do Projeto
 Este projeto faz parte da **Sprint 4** do curso de Testes de Software.  
@@ -43,7 +43,7 @@ Todos os resultados foram documentados e eventuais falhas reportadas no **Jira**
 ## ▶️ Como Executar os Testes
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/Pattussi/Projeto-Sprint-4.git
+   git clone https://github.com/Pattussi/urban-grocers-api-tests.git
    ```
 2. Instale as dependências:  
    ```bash
